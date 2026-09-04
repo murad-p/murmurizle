@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/Luna712/Luna712-CloudStream-Extensions/builds/DailymotionProvider.cs3",
+        "url": "https://raw.githubusercontent.com/murad-p/murmurizle/builds/DailymotionProvider.cs3",
         "status": 0,
         "version": 1,
         "name": "DailymotionProvider",
@@ -10,7 +10,7 @@
         ],
         "description": "Watch content from Dailymotion",
         "fileSize": 11472,
-        "repositoryUrl": "https://github.com/Luna712/Luna712-CloudStream-Extensions",
+        "repositoryUrl": "https://github.com/murad-p/murmurizle",
         "tvTypes": [
             "Others"
         ],
@@ -19,7 +19,7 @@
         "fileHash": "sha256-96c167875a8c6d3ea0131f076296c2f48d0157cf3ca9d788a29e78d35b9dca1f"
     },
     {
-        "url": "https://raw.githubusercontent.com/Luna712/Luna712-CloudStream-Extensions/builds/InternetArchiveProvider.cs3",
+        "url": "https://raw.githubusercontent.com/murad-p/murmurizle/builds/InternetArchiveProvider.cs3",
         "status": 1,
         "version": 22,
         "name": "InternetArchiveProvider",
@@ -29,7 +29,7 @@
         ],
         "description": "Watch content from the Internet Archive at archive.org",
         "fileSize": 27774,
-        "repositoryUrl": "https://github.com/Luna712/Luna712-CloudStream-Extensions",
+        "repositoryUrl": "https://github.com/murad-p/murmurizle",
         "tvTypes": [
             "Others"
         ],
